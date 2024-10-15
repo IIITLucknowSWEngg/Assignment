@@ -95,3 +95,14 @@ Software testing Document  \[\_\_ Marks\]
 	Try to use the template from IEEE-829-2008  
 	[https://standards.ieee.org/ieee/829/3787/](https://standards.ieee.org/ieee/829/3787/) 
 
+	Try to write test cases using BDD (Behavior Driven Development)
+	References:
+	* https://cucumber.io/docs/bdd/better-gherkin/
+	* https://cucumber.io/resources/?Type=eBooks 
+
+	Consider using Chai Assertion Library 
+	* https://www.chaijs.com/
+
+
+
+
