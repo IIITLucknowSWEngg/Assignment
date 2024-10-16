@@ -50,6 +50,10 @@ Example:
 
 Read Software Engineering Body of Knowledge (SWEBOK) at [https://www.computer.org/education/bodies-of-knowledge/software-engineering](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
 
+
+Please use the latest V4 version of SWEBOK which is available at https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4 
+
+
 Assignment 1 \[\_\_ Marks\]:
 
 Describe your project  
