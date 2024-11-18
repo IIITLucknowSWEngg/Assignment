@@ -1,2 +1,2 @@
 # Assignment
-Details of Assignment
+Details of Assignment, Slides, etc.
